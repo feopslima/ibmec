@@ -1,0 +1,15 @@
+MINHAS RESPOSTAS
+Podemos entender como arquivo uma formação de dados digitais organizados, seguindo uma estrutura ou formato. Esses dados se relacionam de alguma forma, assim descrevendo uma informação ou conjunto de informações. 
+Já o arquivo de texto é um tipo de arquivo de computador que possui caracteres legíveis por humanos, são frequentemente usados para criar scripts de programação, armazenar dados em um formato estruturado, escrever documentos entre outros. Podemos encontrar em alguns formatos, como por exemplo: PDF, DOC e DOCX, HTML e HTM, e XLS e XLSX
+As variáveis na programação de computadores são ferramentas que permitem manipular dados e otimizar o processo de programação. Elas representam um espaço na memória física ou virtual de um computador, e nelas esses dados são armazenados durante a execução de um programa
+O servidor é um computador ou software mais potente que um desktop comum, ele comporta um ou mais processadores, além de bancos de memórias, portas de comunicação, diferentes softwares e sistemas de armazenamento de dados. Ele centraliza todas as informações e demais dados de uma rede, com isso ele executa programas de forma centralizada e armazena e compartilha arquivos, administra filas de impressão, entre outras ações, e isso ocorre por meio de uma rede local ou remota. 
+
+RESPOSTAS PROFESSOR:
+Arquivo é um conjunto de dados a qual você dá um nome. 
+E dados é uma sequencia de 0 e 1. Exemplo: 0100101110 – foto png. / 01011010 – texto.txt
+No arquivo de texto a cada quantidade de números, o computador vai em uma tabela e verifica o que aquilo representa. Ou seja, a cada determinada quantidade de números, é um caractere. 
+A variável é um nome que recebe um valor. É um espaço na memória. Um nome que recebe valor é bem mais abstrato que um espaço na memória do computador. – é um espaço na memória que acrescenta valor 
+Abstração na computação – depende do nível de abstração que você está olhando. 
+Sistema computacional é um programa de computador. Servidor pode ser um computador ou um programa que atende outros através de uma rede. 
+Dependendo do nível de abstração as palavras COMPUTADOR ou SISTEMA podem ter variações. 
+Provedor de aplicação é uma empresa que fornece sistema. Provedor de acesso é uma empresa que fornece acesso a uma infraestrutura. Ex.: é como se você alugasse cabo. 
