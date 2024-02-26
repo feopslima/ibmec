@@ -13,3 +13,11 @@ Abstração na computação – depende do nível de abstração que você está
 Sistema computacional é um programa de computador. Servidor pode ser um computador ou um programa que atende outros através de uma rede. 
 Dependendo do nível de abstração as palavras COMPUTADOR ou SISTEMA podem ter variações. 
 Provedor de aplicação é uma empresa que fornece sistema. Provedor de acesso é uma empresa que fornece acesso a uma infraestrutura. Ex.: é como se você alugasse cabo. 
+
+TRABALHO AULA 2 
+
+Data center é um conjunto de equipamentos utilizados por uma organização para o processamento e armazenamento de dados, sistema e aplicações. Essa estrutura reúne servidores, banco de dados informatizados e componentes auxiliares, como storages e ativos de rede. Uma das funções mais importantes é assegurar que as informações e sistemas hospedados nos Data Centers possam ser acessados a qualquer momento. E por esse motivo, cabe aos Data Center garantir a segurança do usuário, para isso, garantindo a proteção física dos ambientes.
+A LGPD afeta completamente a forma como as empresas que operam no Brasil lidam com informações e dados pessoais. Sob a ótica da lei, basicamente, as empresas devem: Ser mais transparentes e conscientes em relação ao uso de dados pessoais de seus clientes, parceiros e usuários, adotar mecanismos de proteção e segurança, prevenindo vazamentos de dados e ameaças que possam vir a comprometer as informações, adotar medidas que permitam aos proprietários ou titulares dos dados terem controle e acesso as suas próprias informações.
+ Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Por isso, diversos educadores estão equivocados ao não se importarem com o formato em que salvam seus arquivos.
+Exemplos de formatos abertos: OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório), LaTeX (uma linguagem de documentação), Json (uma linguagem de documentação), EPUB (formato de arquivo digital), DVI (uma linguagem para descrição de página)
+
