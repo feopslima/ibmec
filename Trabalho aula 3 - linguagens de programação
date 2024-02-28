@@ -1,0 +1,13 @@
+A linguagem de programação é um sistema formal que permite aos programadores criar programas por meio de um conjunto da mescla de palavras-chave, símbolos, termos e comandos. Isso envolve a criação de programas por meio da especificação de ações, ordens, algoritmos e manipulação de dados.
+A Python é considerada a linguagem mais simples, ela é conhecida como uma linguagem open source, e é aplicada nos mais variados casos pois tem um alto potencial de integração com outras linguagens, uso otimizado em diferentes sistemas operacionais e a possibilidade de automação de comandos.
+A Javascript integra uma categoria de alto nível, é um dos modelos mais populares de linguagem de programação da atualidade, ele compõe a maioria dos navegadores que utilizamos para acessar a internet, como Mozilla, Chrome, etc, é utilizado para o desenvolvimento de páginas, e-commerces, e muito mais.
+Go foi projetada para servir às demandas do Google, sendo posteriormente adotado por outras empresas de informática. Ela é indicada para melhora do desempenho de programas, e traz a possibilidade de edição simultânea por dois ou mais programadores. 
+
+Meu código Python foi: print("Olá Ibmec")
+Meu código JavaScript: console.log("Flamengo 2024");
+Meu código Go: package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Arrascaeta e Gabigol")
