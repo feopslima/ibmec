@@ -21,3 +21,7 @@ A LGPD afeta completamente a forma como as empresas que operam no Brasil lidam c
  Os formatos proprietários representam a privatização da memória digital. Arquivos salvos em formatos abertos são arquivos que seguem padrões abertos, cujas especificações são publicadas e podem ser conhecidas por todos. Os Formatos abertos permitem que diversos softwares possam implementá-los, independentemente dos direitos de propriedade. Por isso, diversos educadores estão equivocados ao não se importarem com o formato em que salvam seus arquivos.
 Exemplos de formatos abertos: OASIS OpenDocument Format for Office Applications (para suites e documentos para escritório), LaTeX (uma linguagem de documentação), Json (uma linguagem de documentação), EPUB (formato de arquivo digital), DVI (uma linguagem para descrição de página)
 
+RESPOSTAS PROFESSOR 
+
+O formato de arquivo aberto é publicado para todo mundo saber, como por exemplo, um formato ABNT, todos que forem fazer um programa de computador podem usar. Arquivo de texto é um arquivo aberto. 
+Dados públicos são dados oriundos a operação do Estado que não tem privacidade. Exemplo, o resultado do IBGE. O governo brasileiro disponibiliza dado público em formato de proprietário, ou seja, o dado público não atinge todo mundo. Existe um esforço da sociedade para que o governo disponibilize em dado aberto. 
