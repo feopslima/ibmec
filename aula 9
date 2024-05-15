@@ -1,31 +1,26 @@
-f = open ('meu_arquivo.txt', 'w')
+def questao1():
+    nome = input("Entre com o seu nome:")
+    f = open('arquivo.txt','w')
+    f.write(nome)
+    f.close()
 
-f.write("Teste de número 1\n") # '\n' gera uma quebra de linha
-f.write("teste de número 2")
+def questao2():
+    arq = input("Entre com o nome do arquivo:")
+    f = open(arq,'r')
+    print(f.read())
+    f.close
 
-f.close()
+def questao3():
+    f1 = open('arquivo-exemplo.txt','r')
+    f2 = open('novo-arquivo.txt','w')
+    f2.write(f1.read())
+    f1.close()
+    f2.close()
 
-f.close()
-f = open('meu_arquivo.txt', 'a')
-f.write('Mais um pouco de texto')
-f.close()
-
-f = open('novo_arquivo.txt', 'w')
-f.write('Novos arquivos\nnovos textos')
-f.close()
-f = open('novo_arquivo.txt', 'r+')
-conteudo = f.read() # conteudo = 'Novos arquivos\nnovos textos'
-f.seek(0) # é preciso voltar ao início para ler outra vez
-print(f.read())
-
-f.write('\nNunca é demais')
-f.close()
-f = open('novo_arquivo.txt', 'r')
-print(f.read())
-
-f = open("novo_arquivo.txt", "r")
-for linha in f:
- print(linha)
-f.seek(0)
-for linha in f:
- print(linha, end='')
+def questao4():
+    f = open('arquivo-exemplo.txt','r')
+    numero = input('Entre com um número:')
+    for linha in f:
+        partes = linha.split(';')
+        if partes[0] == numero:
+            print (partes[1])
